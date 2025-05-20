@@ -1,11 +1,5 @@
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 
-# Name : GOKUL S
-
-# Register No : 212224240045
-
-# Department : AI & ML
-
 # Date:20-05-2025
 
 ## Aim :
